@@ -1,6 +1,6 @@
 # macua
 
-this was an attempt at making [daiquiri](https://github.com/resyncgg/dacquiri) work on stable rust and without funny macros
+this was an attempt at making [dacquiri](https://github.com/resyncgg/dacquiri) work on stable rust and without funny macros
 
 i did not succeed, so this crate still requires nightly for the `marker_trait_attr` feature. at least it uses *different* nightly features than daiquiri's, so hey i guess this kinda can be counted as a win? the ergonomics are materially worse though, so idk
 
